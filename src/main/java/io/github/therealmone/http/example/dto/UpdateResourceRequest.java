@@ -9,7 +9,7 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @AllArgsConstructor
 @Builder
-public class CreateResourceRequest {
+public class UpdateResourceRequest {
 
     private String name;
 
